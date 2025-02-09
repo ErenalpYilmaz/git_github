@@ -50,7 +50,7 @@
 - **`git reflog`**: Silinmiş veya silinmemiş tüm commit geçmişini gösterir. (Bu kayıtlar sadece 90 gün boyunca tutulur. Yani commit'in silinmesinden itibaren 90 gün sonra reflog'dan da silinir.)
 - **`git reset --hard hash`**: Buraya silinmiş commit'in reflog'dan alınmış hash'ini girerseniz, commit'i geri getirebilirsiniz.
 
-## README İçeriği
+## README İçeriği nasıl olmalı ?
 
 1. **Logo**: Projeye ait logo.
 2. **Proje Adı ve Açıklaması**: Projenin adı ve kısa açıklaması.
